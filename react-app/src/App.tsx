@@ -18,7 +18,7 @@ function App() {
               <p> HOME » PERSONAL CARE » NAIL CARE </p>
             </div>
             <div className="top-bar">
-              <p>Friday, January 30</p>
+              <p>Friday, January 30, 2026</p>
             </div>
 
             <div className="left">
@@ -323,7 +323,7 @@ function App() {
                 </a>
 
                 <p>
-                  The Swissker KlearNail Anti-Fungal Stick is the ultimate toenail fungus solution, combining effectiveness, safety, and convenience in one innovative product. At just <b>$21.99 (63% off the regular price of $59.99)</b>, it delivers professional-grade results at an accessible price, making it the best overall choice for treating nail fungus.
+                  The Swissker KlearNail Anti-Fungal Stick is the ultimate toenail fungus solution, combining effectiveness, safety, and convenience in one innovative product. At just <b>$29.99 (50% off the regular price of $59.99)</b>, it delivers professional-grade results at an accessible price, making it the best overall choice for treating nail fungus.
                 </p>
                 <p>
                   <i>"After years of struggling with toenail fungus, I was <b>amazed</b> at <b>how quickly</b> the Swissker Anti-Fungal Stick worked. It's easy to use, and my nails are healthier than ever!"</i> – Customer Review
