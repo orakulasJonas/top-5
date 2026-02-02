@@ -1,7 +1,8 @@
 {
-  "name": "react-app",
+  "name": "top-5-toenail-fungus-treatments",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "React + TypeScript app showcasing the best toenail fungus treatment alternatives",
   "type": "module",
   "scripts": {
     "dev": "vite",
