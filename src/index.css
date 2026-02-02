@@ -1,0 +1,9 @@
+/* Minimal CSS reset - DO NOT add styles here, use styles.css instead */
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
